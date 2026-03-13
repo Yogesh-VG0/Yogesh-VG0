@@ -3,14 +3,8 @@
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Yogesh%20Vadivel&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=Full-Stack%20Developer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1500&pause=600&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=110&lines=Building+full-stack+apps+with+React+%26+Python;ML+pipelines+that+run+in+production+daily;From+idea+to+deployed+product"
-    alt="Typing SVG"
-  />
-</a>
-
+<!-- Typing SVG --> 
+<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1500&pause=600&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Building+full-stack+apps+with+React+%26+Python;ML+pipelines+that+run+in+production+daily;From+idea+to+deployed+product"/> </a>
 <br/><br/><br/>
 
 <!-- Social Badges -->
