@@ -87,7 +87,7 @@ Personal portfolio with **detailed case studies & architecture breakdowns**.
 - Dark/light mode with smooth transitions
 - Fully responsive mobile-first design
 
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Framer Motion`
+`React` `TypeScript` `Tailwind CSS` `Framer Motion`
 
 [![Live](https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://yogeshv.me)
 [![Code](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yogesh-VG0/Yogesh-Portfolio_Source)
