@@ -9,7 +9,7 @@
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-vadivel-a287a6269/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yogeshvadivel.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yogeshv.me)
 
 </div>
 
@@ -19,7 +19,7 @@
 
 Full-stack developer who builds and ships **production applications** — from ML pipelines and backend APIs to polished frontends. I like building systems that are reliable, explainable, and actually useful.
 
-> More about me, my experience, and certifications on my **[portfolio website](https://yogeshvadivel.com)**.
+> More about me, my experience, and certifications on my **[portfolio website](https://yogeshv.me)**.
 
 ---
 
@@ -89,7 +89,7 @@ Personal portfolio with **detailed case studies & architecture breakdowns**.
 
 `Next.js` `React` `TypeScript` `Tailwind CSS` `Framer Motion`
 
-[![Live](https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://yogeshvadivel.com)
+[![Live](https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://yogeshv.me)
 [![Code](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yogesh-VG0/Yogesh-Portfolio_Source)
 
 </td>
@@ -141,7 +141,7 @@ Personal portfolio with **detailed case studies & architecture breakdowns**.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/See_my_full_portfolio-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://yogeshvadivel.com)
+[![Portfolio](https://img.shields.io/badge/See_my_full_portfolio-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://yogeshv.me)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Yogesh-VG0&color=58a6ff&style=flat-square&label=Profile+Views)
 
