@@ -79,7 +79,7 @@ AI-powered expense tracker with **receipt scanning & spending insights**.
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [Portfolio Website](https://yogeshvadivel.com)
+### 🌐 [Portfolio Website](https://yogeshv.me)
 Personal portfolio with **detailed case studies & architecture breakdowns**.
 
 - Animated sections with Framer Motion
